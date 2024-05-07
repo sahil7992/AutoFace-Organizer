@@ -23,16 +23,9 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/sahil7992/AutoFace-Organizer)
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd AutoFace_Organizer
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+
 
 ## Usage
 
@@ -55,8 +48,4 @@ Adjust the following configurations in the scripts as per your needs:
 - `face_folder_path` in `learn.py`: Path to the directory containing the labeled images for learning.
 - `folder_path` in `detect.py`: Path to the directory for processing detection images.
 
-## Contributing
-Contributions are welcome! Please fork the repository and submit pull requests with your proposed changes.
 
-## License
-This project is released under the MIT License. See the [LICENSE](LICENSE) file for more details.
