@@ -23,7 +23,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/sahil7992/AutoFace-Organizer)
+   git clone https://github.com/sahil7992/AutoFace-Organizer
    ```
 
 
