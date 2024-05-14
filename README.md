@@ -7,7 +7,7 @@ AutoFace Organizer is a Python-based facial recognition tool designed to automat
 ## Features
 - **Face Learning:** Analyzes images from a specified folder, extracts face embeddings using deep learning models, and saves the embeddings for later recognition.
 - **Face Detection:** Recognizes faces in new images by comparing with previously learned embeddings and identifies upto 60 persons in a image with highlighted bounding boxes.
--**Accuracy:** Around 86%.
+- **Accuracy:** Around 86%.
 ## Installation
 
 ### Prerequisites
